@@ -1,0 +1,21 @@
+{
+  "name": "lab-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayasith",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-static": "^5.0.0",
+    "mongodb": "^3.6.6",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "koa": "^2.13.1"
+  }
+}
